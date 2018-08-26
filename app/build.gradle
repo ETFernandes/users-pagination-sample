@@ -30,4 +30,7 @@ dependencies {
 
     implementation "androidx.appcompat:appcompat:$appCompatVersion"
 
+    implementation "com.squareup.retrofit2:retrofit:$retrofitVersion"
+    implementation "com.squareup.retrofit2:converter-moshi:$retrofitVersion"
+    implementation "com.squareup.moshi:moshi-kotlin:$moshiVersion"
 }
