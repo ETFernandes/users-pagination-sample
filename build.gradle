@@ -2,6 +2,7 @@
 ext {
     appCompatVersion = '1.0.0-rc01'
     pagingVersion = '2.0.0-rc01'
+    koinVersion = '1.0.0-beta-5'
     retrofitVersion = '2.4.0'
     moshiVersion = '1.6.0'
 }
