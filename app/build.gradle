@@ -30,6 +30,9 @@ dependencies {
 
     implementation "androidx.appcompat:appcompat:$appCompatVersion"
     implementation "androidx.paging:paging-runtime:$pagingVersion"
+    implementation "androidx.recyclerview:recyclerview:$recyclerViewVersion"
+    implementation "androidx.constraintlayout:constraintlayout:$constraintLayoutVersion"
+
     implementation "org.koin:koin-androidx-viewmodel:$koinVersion"
 
     implementation "com.squareup.retrofit2:retrofit:$retrofitVersion"
